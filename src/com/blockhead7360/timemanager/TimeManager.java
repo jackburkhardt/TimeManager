@@ -71,7 +71,7 @@ public class TimeManager {
 		}
 
 		JFrame frame = new JFrame("TimeManager " + VERSION);
-		frame.setSize(new Dimension(500, 500));
+		frame.setSize(new Dimension(515, 500));
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
